@@ -1,11 +1,10 @@
-// Copyright 2021 NNTU-CS
+// Copyright 2024 NNTU-CS
 #include <iostream>
 
 using std::cout;
 using std::endl;
 
 int gcd(int a, int b) {
-	// поместить сюда текст реализации алгоритма (на С++)
 	int c = 1;
 	int z = (a > b) ? a : b;
 	for (int i = 1; i <= z; ++i) {
