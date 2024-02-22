@@ -1,3 +1,4 @@
+//Copyright 2024 NNTU-CS
 #include <iostream>
 
 using std::cout;
