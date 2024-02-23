@@ -16,9 +16,9 @@ int gcd(int a, int b) {
 }
 
 int main() {
-   int a, b;
-   std::cin >> a;
-   std::cin >> b;
-   cout << gcd(a, b) << endl;
-   return 0;
+    int a, b;
+    std::cin >> a;
+    std::cin >> b;
+    cout << gcd(a, b) << endl;
+    return 0;
 }
